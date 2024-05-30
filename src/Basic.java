@@ -7,6 +7,9 @@ public class Basic {
 		
 		RestAssured;
 		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
 
 	}
 
